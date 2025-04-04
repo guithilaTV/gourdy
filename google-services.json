@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946833404338",
+    "project_id": "gourdy-62d42",
+    "storage_bucket": "gourdy-62d42.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946833404338:android:5fe2f190d05a606394b4ab",
+        "android_client_info": {
+          "package_name": "com.thibaud.gourdy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASGn628q44XD7alvDsbFldFBaurEzxvcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
